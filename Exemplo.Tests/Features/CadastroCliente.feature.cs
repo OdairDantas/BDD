@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace Exemplo.Tests.Features
+namespace Exemplo.WebApp.IntegrationTests.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -31,7 +31,7 @@ namespace Exemplo.Tests.Features
 #line 1 "CadastroCliente.feature"
 #line hidden
         
-        public CadastrarClienteFeature(CadastrarClienteFeature.FixtureData fixtureData, Exemplo_Tests_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public CadastrarClienteFeature(CadastrarClienteFeature.FixtureData fixtureData, Exemplo_WebApp_IntegrationTests_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();
